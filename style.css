@@ -22,6 +22,7 @@
 
 .site-title {
     font-size: 3vw;
+    border-bottom: solid 0.05em #111111;
 }
 
 .contenuTexte {
