@@ -28,3 +28,17 @@
     font-weight: bold;
     color: yellow !important;
 }
+
+.contenuBordure {
+    border: solid 0.25em #00f014 !important;
+}
+
+@media screen and (max-width: 600px) {
+    .site-title {
+        font-size: 7.5vw;
+    }
+
+    .site-description {
+        white-space: pre-line;
+    }
+}
